@@ -2,7 +2,7 @@
 I am @oknelaksoms
 - 🔭 I’m currently working on my skills to find a job.
 - 🌱 I’m currently learning C++ for embedded systems.
-- 📫 How to reach me: [oknelaksoms@gmail.com](milto:oknelaksoms@gmail.com) [telegram](https://t.me/oknelaksom_s)
+- 📫 How to reach me: [oknelaksoms@gmail.com](mailto:oknelaksoms@gmail.com) [telegram](https://t.me/oknelaksom_s)
 <!--
 **LordSerg/LordSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
