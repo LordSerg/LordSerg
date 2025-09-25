@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am @oknelaksoms
-- 🔭 I’m currently working on my skills and looking for a job.
+- 🔭 I’m currently working on my skills in programming.
 - 📫 How to reach me: [oknelaksoms@gmail.com](mailto:oknelaksoms@gmail.com) or [telegram](https://t.me/oknelaksom_s)
 - I am also on [LinkedIn](https://www.linkedin.com/in/oknelaksoms/)
 <!--
