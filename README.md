@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am @oknelaksoms
 - 🔭 I’m currently working on my skills in programming.
+- If you are an HR professional or just interested in me, here is my [website](https://lordserg.github.io/)
 - 📫 How to reach me: [oknelaksoms@gmail.com](mailto:oknelaksoms@gmail.com) or [telegram](https://t.me/oknelaksom_s)
 - I am also on [LinkedIn](https://www.linkedin.com/in/oknelaksoms/)
 <!--
